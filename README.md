@@ -5,7 +5,7 @@
 - 🚀 HTML, CSS, JavaScript, React
 
 ### 📭 Contacts 
-- **mail:** alexanderzhibul@mail.ru
+- **gmail:** zhibul.alexander@gmail.com
 - **Telegram:** @alexanderzhibul
 
 ### Some of my Github Stats
