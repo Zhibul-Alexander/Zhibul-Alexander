@@ -2,7 +2,7 @@
 
 - 💻 I’m looking for a job
 - 🏆 I’m currently study in <a href="https://teachmeskills.by/">TeachMeSkills</a>
-- 🚀 HTML, CSS, JavaScript, React
+- 🚀 HTML, CSS, JavaScript, React, Redux
 
 ### 📭 Contacts 
 - **gmail:** zhibul.alexander@gmail.com
