@@ -1,11 +1,11 @@
 # Hello there 👋, I'm Alexander!
 
 - 💻 I’m looking for a job
-- 🏆 I’m currently study in <a href="https://teachmeskills.by/">TeachMeSkills</a>
+- 🏆 I’m currently studying in <a href="https://teachmeskills.by/">TeachMeSkills</a>
 - 🚀 HTML, CSS, JavaScript, React, Redux
 
 ### 📭 Contacts 
-- **gmail:** zhibul.alexander@gmail.com
+- **Gmail:** zhibul.alexander@gmail.com
 - **Telegram:** @alexanderzhibul
 
 ### Some of my Github Stats
