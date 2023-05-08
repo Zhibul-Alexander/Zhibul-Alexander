@@ -1,16 +1,16 @@
-# Hello there 👋, I'm Alexander!
-
-- 🚀 HTML, CSS, JavaScript, TypeScript, React, Redux
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=550&height=35&lines=Hello+there%2C+I'm+Alexander!+%F0%9F%91%8B;Currently%2C+I'm+working+on+React%2FTypeScript++%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### 📭 Contacts 
 - **Gmail:** zhibul.alexander@gmail.com
-- **Telegram:** @alexanderzhibul
+- **Telegram:** https://t.me/alexanderzhibul
 
 ### Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Zhibul-Alexander&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
 
 ### 📈 Codewars
 [![codewars](https://www.codewars.com/users/Zhibul-Alexander/badges/large)](https://www.codewars.com/users/Zhibul-Alexander)   
+
+### 🔑 My Projects
 
 <details><summary><b>🚀 React</b></summary>
   <ul>
