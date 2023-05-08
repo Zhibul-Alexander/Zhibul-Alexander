@@ -12,13 +12,62 @@
 ### 📈 Codewars
 [![codewars](https://www.codewars.com/users/Zhibul-Alexander/badges/large)](https://www.codewars.com/users/Zhibul-Alexander)   
 
-<details><summary><b>HTML&CSS</b></summary>
+<details><summary><b>🚀 React</b></summary>
   <ul>
-    <li><a href="https://zhibul-alexander.github.io/Full-page-slider/" target="_blank" rel="noopener">Full page slider</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Gallery-of-cards/" target="_blank" rel="noopener">Gallery of cards</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Robot-fullpage/" target="_blank" rel="noopener">Robot full page</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/Konstruct/" target="_blank" rel="noopener">Konstruct</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Awesome/" target="_blank" rel="noopener">Awesome</a></li>
-    <li><a href="https://zhibul-alexander.github.io/ACME/" target="_blank" rel="noopener">ACME</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Shopping-cart/">Shopping cart (with demo view)</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Modnikky-online-shop">Modnikky online shop</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Registration-app/tree/registration">Registration app</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/To-do-react">To do list</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Keyboard/tree/keyboard">Keyboard</a></li>
+  </ul>
+</details>
+
+<details><summary><b>🤖 JavaScript</b></summary>
+  <ul>
+    <li><a href="https://zhibul-alexander.github.io/youngBerries/">Youngberries (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Simple-drag-and-drop/">Drag and drop (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Animation-board/">Animation board (with demo view)</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/To-do-js">To do list</a></li>
+  </ul>
+</details>
+
+<details><summary><b>🎨 HTML&CSS</b></summary>
+  <ul>
+    <li><a href="https://zhibul-alexander.github.io/Full-page-slider/">Full page slider (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Gallery-of-cards/">Gallery of cards (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Robot-fullpage/">Robot full page (with demo view)</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Konstruct/">Konstruct (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Awesome/">Awesome (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/ACME/">ACME (with demo view)</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Loft-Mebel-SCSS">Loft mebel</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Custom-switcher">Custom switcher</a></li>
+  </ul>
+</details>
+
+<details><summary><b>💻 Nodejs</b></summary>
+  <ul>
+    <li><a href="https://github.com/Zhibul-Alexander/remote-control/tree/dev">Remote control</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/File-Manager/tree/file-manager">File manager</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/CRUD-Api/tree/dev">CRUD api</a></li>
+  </ul>
+</details>
+
+<details><summary><b>🎮 Games</b></summary>
+  <ul>
+    <li><a href="https://zhibul-alexander.github.io/Snake/">Snake (with demo view)</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Aim-training-game/">Aim game (with demo view)</a></li>
+  </ul>
+</details>
+
+<details><summary><b>💬 Bots</b></summary>
+  <ul>
+    <li><a href="https://github.com/Zhibul-Alexander/Chat-gpt-telegram-bot">Chat gpt telegram bot</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Regular-telegram-bot">Regular telegram bot</a></li>
+  </ul>
+</details>
+
+<details><summary><b>🌀 Services</b></summary>
+  <ul>
+    <li><a href="https://github.com/Zhibul-Alexander/Firebase-cloud-messaging">Firebase cloud messagin</a></li>
   </ul>
 </details>
