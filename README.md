@@ -14,11 +14,11 @@
 
 <details><summary><b>HTML&CSS</b></summary>
   <ul>
-    <li><a href="https://zhibul-alexander.github.io/Full-page-slider/" target="_blank">Full page slider</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Gallery-of-cards/" target="_blank">Gallery of cards</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Robot-fullpage/" target="_blank">Robot full page</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/Konstruct/" target="_blank">Konstruct</a></li>
-    <li><a href="https://zhibul-alexander.github.io/Awesome/" target="_blank">Awesome</a></li>
-    <li><a href="https://zhibul-alexander.github.io/ACME/" target="_blank">ACME</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Full-page-slider/" target="_blank" rel="noopener">Full page slider</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Gallery-of-cards/" target="_blank" rel="noopener">Gallery of cards</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Robot-fullpage/" target="_blank" rel="noopener">Robot full page</a></li>
+    <li><a href="https://github.com/Zhibul-Alexander/Konstruct/" target="_blank" rel="noopener">Konstruct</a></li>
+    <li><a href="https://zhibul-alexander.github.io/Awesome/" target="_blank" rel="noopener">Awesome</a></li>
+    <li><a href="https://zhibul-alexander.github.io/ACME/" target="_blank" rel="noopener">ACME</a></li>
   </ul>
 </details>
