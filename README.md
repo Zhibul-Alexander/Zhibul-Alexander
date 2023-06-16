@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=550&height=35&lines=Hello+there%2C+I'm+Alexander!+%F0%9F%91%8B;Currently%2C+I'm+working+on+React%2FTypeScript++%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=750&color=72B4F7&vCenter=true&width=560&height=30&lines=Currently%2C+I'm+working+on+React%2FTypeScript!+%F0%9F%9A%80;Hello+there%2C+I'm+Alexander!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 ### 📭 Contacts 
 - **Gmail:** zhibul.alexander@gmail.com
