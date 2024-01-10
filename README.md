@@ -16,9 +16,6 @@
   <ul>
     <li><a href="https://zhibul-alexander.github.io/Shopping-cart/">Shopping cart (with demo view)</a></li>
     <li><a href="https://github.com/Zhibul-Alexander/Modnikky-online-shop">Modnikky online shop</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/Registration-app/tree/registration">Registration app</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/To-do-react">To do list</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/Keyboard/tree/keyboard">Keyboard</a></li>
   </ul>
 </details>
 
@@ -27,7 +24,6 @@
     <li><a href="https://zhibul-alexander.github.io/youngBerries/">Youngberries (with demo view)</a></li>
     <li><a href="https://zhibul-alexander.github.io/Simple-drag-and-drop/">Drag and drop (with demo view)</a></li>
     <li><a href="https://zhibul-alexander.github.io/Animation-board/">Animation board (with demo view)</a></li>
-    <li><a href="https://github.com/Zhibul-Alexander/To-do-js">To do list</a></li>
   </ul>
 </details>
 
