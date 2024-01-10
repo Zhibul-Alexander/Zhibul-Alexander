@@ -2,7 +2,7 @@
 
 ### 📭 Contacts 
 - **Gmail:** zhibul.alexander@gmail.com
-- **Telegram:** https://t.me/alexanderzhibul
+- **Telegram:** https://t.me/alexander_zhh
 
 ### Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Zhibul-Alexander&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
