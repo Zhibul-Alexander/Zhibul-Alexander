@@ -50,6 +50,7 @@
 
 <details><summary><b>🎮 Games</b></summary>
   <ul>
+    <li><a href="https://zhibul-alexander.github.io/memory-card-game-phaser/">Memory card game phaser (with demo view)</a></li>
     <li><a href="https://zhibul-alexander.github.io/Snake/">Snake (with demo view)</a></li>
     <li><a href="https://zhibul-alexander.github.io/Aim-training-game/">Aim game (with demo view)</a></li>
   </ul>
